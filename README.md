@@ -52,7 +52,7 @@
 
 ### Распределение вероятностей
 
-![Probability Histogram](/images/probability_histogram.png)
+![Probability Histogram](/images/probability.png)
 
 **Интерпретация:**
 
